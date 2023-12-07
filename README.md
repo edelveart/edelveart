@@ -14,7 +14,7 @@
 
 * [TypeScriptTonnetz](https://github.com/edelveart/TypeScriptTonnetz) : TypeScriptTonnetz is a set of functions and operations from Mathematical Music Theory (transformational approach) in TypeScript. It emerged as a development branch to contribute to Miika Alonen's phenomenal ZifferJS project.
 * [Sonic Pi - Edelve](https://github.com/edelveart/Sonic_Pi_Edelve) : Contains a set of ideas and code from Sonic Pi that were used in teaching basic music technology.
-* [TypeScript Music Generators](https://github.com/edelveart/TypeScript-Music-Generators) : It is a set of musical sequence generators flavored with p-adic numbers. Its purpose is to play creatively with local mathematics during live coding.
+* [TypeScript Music Generators](https://github.com/edelveart/TypeScript-Music-Generators) : Set of musical sequence generators flavored with p-adic numbers. Its purpose is to creatively play with local mathematics during live coding.
 
 
 ## Skills
