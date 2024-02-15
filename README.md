@@ -3,7 +3,7 @@
 * [X] 👋 Hi, I’m **Edgar Delgado**  :computer: + :musical_score:
 
 1. I’m interested in **algorithmic music**, **live coding** and **Mathematical Music Theory**.
-2. Assist in the integration of new artistic concepts in your musical and computer projects. 👀 👀
+2. Assist in the integration of new artistic concepts in your musical and computer projects. 👀 
 
 PS: I am not a mathematician or a programmer (worlds that I discovered already very old), so the code and ideas that you can find here are mostly my best effort at abstraction.
 
