@@ -1,4 +1,4 @@
-# 👋 Hey there I’m **Edgar Delgado (PE-LIM)**  
+# 👋 Hey there I’m **Edgar Delgado (Lima-Perú)**  
 <h3 align="center"">:computer: Music Software Developer :musical_score: Professor of Master's Degree in Musicology :mega: STEAM communicator  </h3>
 
 1. :star: I’m interested in **Mathematical Music Theory (MaMuTh)** and **algorithmic composition**.
