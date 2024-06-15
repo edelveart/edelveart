@@ -13,7 +13,7 @@
 
 ## Other Projects
 
-* [Sonic Pi - Edelve](https://github.com/edelveart/Sonic_Pi_Edelve) : Contains a set of ideas and code from Sonic Pi that were used in teaching basic music technology.
+* [Figurate Numbers (Ruby gem)](https://rubygems.org/gems/figurate_numbers) : Generates infinite sequences of plane, space, and multidimensional figurate numbers based on the book ‘Figurate Numbers’ (2012) by Elena Deza and Michel Deza. The methods are implemented using the Enumerator class and are designed for use in Sonic Pi.
 * [TypeScript Music Generators](https://github.com/edelveart/TypeScript-Music-Generators) : Set of musical sequence generators flavored with p-adic numbers. Its purpose is to creatively play with local mathematics during live coding.
 
 ## Skills
