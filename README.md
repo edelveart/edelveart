@@ -6,15 +6,13 @@
 3. &#128208; I am also developing a Ruby library to generate 206 infinite sequences of [multidimensional figurate numbers](https://rubygems.org/gems/figurate_number) based on the book "Figurate Numbers" by Michel Deza and Elena Deza.
 4. :eye: Assist in the integration of new artistic and math concepts in your musical and computer projects. 
 
-## Connect with me
+## Connect with me:
 &ensp;&ensp;&ensp;&ensp;
 [<img src="Linkedin_logo.svg.png" alt="LinkedIn" width="35px"  />](https://www.linkedin.com/in/edgararmandodelgadovega) &ensp;&ensp;&ensp;&ensp;
 [<img src="Youtube_logo.png" alt="Youtube" width="35px"/>](https://www.youtube.com/@edelvemusic) &ensp;&ensp;&ensp;&ensp;
-[<img src="Instagram_logo.svg.webp" alt="Instagram" width="35px"/>](https://www.instagram.com/edgardelgadomusic)
+[<img src="Instagram_logo.svg.webp" alt="Instagram" width="35px"/>](https://www.instagram.com/edgardelgadomusic) 
+### [*PERSONAL WEB SITE*](https://edelveart.github.io/)
 
-## Other Projects
-
-* [TypeScript Music Generators](https://github.com/edelveart/TypeScript-Music-Generators) : Set of musical sequence generators flavored with p-adic numbers. Its purpose is to creatively play with local mathematics during live coding.
 
 ## Skills
 
