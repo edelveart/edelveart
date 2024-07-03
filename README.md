@@ -3,7 +3,8 @@
 
 1. :star: I’m interested in **Mathematical Music Theory (MaMuTh)** and **algorithmic composition**.
 2. :ear_of_rice: I’m currently developing [**TypeScript Tonnetz**](https://www.npmjs.com/package/ts-tonnetz), a library of functions and operations from MaMuTh. It emerged as a development branch to contribute to Miika Alonen's phenomenal **ZifferJS** project. It is currently implemented in [**Topos**](https://topos.live/).
-3. :eye: Assist in the integration of new artistic and math concepts in your musical and computer projects. 
+3. I am also developing a Ruby library to generate 206 infinite sequences of [multidimensional figurate numbers](https://rubygems.org/gems/figurate_number) based on the book Figurate Numbers by Michel Deza and Elena Deza.
+4. :eye: Assist in the integration of new artistic and math concepts in your musical and computer projects. 
 
 ## Connect with me
 &ensp;&ensp;&ensp;&ensp;
@@ -13,7 +14,6 @@
 
 ## Other Projects
 
-* [Figurate Numbers (Ruby gem)](https://rubygems.org/gems/figurate_numbers) : Generates infinite sequences of plane, space, and multidimensional figurate numbers based on the book ‘Figurate Numbers’ (2012) by Elena Deza and Michel Deza. The methods are implemented using the Enumerator class and are designed for use in Sonic Pi.
 * [TypeScript Music Generators](https://github.com/edelveart/TypeScript-Music-Generators) : Set of musical sequence generators flavored with p-adic numbers. Its purpose is to creatively play with local mathematics during live coding.
 
 ## Skills
