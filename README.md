@@ -6,7 +6,7 @@
 3. &#128208; I am also developing a Ruby library to generate 206 infinite sequences of [multidimensional figurate numbers](https://rubygems.org/gems/figurate_number) based on the book "Figurate Numbers" by Michel Deza and Elena Deza.
 4. :eye: Assist in the integration of new artistic and math concepts in your musical and computer projects. 
 
-## Connect with me:
+## Connect with me
 &ensp;&ensp;&ensp;&ensp;
 [<img src="Linkedin_logo.svg.png" alt="LinkedIn" width="35px"  />](https://www.linkedin.com/in/edgararmandodelgadovega) &ensp;&ensp;&ensp;&ensp;
 [<img src="Youtube_logo.png" alt="Youtube" width="35px"/>](https://www.youtube.com/@edelvemusic) &ensp;&ensp;&ensp;&ensp;
