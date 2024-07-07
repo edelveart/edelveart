@@ -9,10 +9,9 @@
 
 ## Connect with me
 &ensp;&ensp;&ensp;&ensp;
-[<img src="Linkedin_logo.svg.png" alt="LinkedIn" width="35px"  />](https://www.linkedin.com/in/edgararmandodelgadovega) &ensp;&ensp;&ensp;&ensp;
-[<img src="Youtube_logo.png" alt="Youtube" width="35px"/>](https://www.youtube.com/@edelvemusic) &ensp;&ensp;&ensp;&ensp;
-[<img src="Instagram_logo.svg.webp" alt="Instagram" width="35px"/>](https://www.instagram.com/edgardelgadomusic) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-edgararmandodelgadovega-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/edgararmandodelgadovega)
+[![YouTube](https://img.shields.io/badge/YouTube-@edelvemusic-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@edelvemusic)
+[![Instagram](https://img.shields.io/badge/Instagram-@edgardelgadomusic-E4405?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/edgardelgadomusic/)
 ### [*PERSONAL WEB SITE*](https://edelveart.github.io/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edelveart&show=prs_merged&show_icons=true&theme=github_dark_dimmed)](https://github.com/edelveart/github-readme-stats)
