@@ -9,7 +9,7 @@
 
 ## Connect with me
 &ensp;&ensp;&ensp;&ensp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-edgararmandodelgadovega-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/edgararmandodelgadovega)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-edgar_amando_delgado_vega-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/edgararmandodelgadovega)
 [![YouTube](https://img.shields.io/badge/YouTube-@edelvemusic-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@edelvemusic)
 [![Instagram](https://img.shields.io/badge/Instagram-@edgardelgadomusic-E4405?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/edgardelgadomusic/)
 ### [*PERSONAL WEB SITE*](https://edelveart.github.io/)
