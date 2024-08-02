@@ -13,7 +13,7 @@
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-edgar_amando_delgado_vega-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/edgararmandodelgadovega) <br>
 - [![YouTube](https://img.shields.io/badge/YouTube-@edelvemusic-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@edelvemusic) <br>
-- [![Instagram](https://img.shields.io/badge/Instagram-@edgardelgadomusic-E4405?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/apersonnamededgar/) <br>
+- [![Instagram](https://img.shields.io/badge/Instagram-@edgardelgadomusic-E4405?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/edgardelgadovega/) <br>
 - [`PERSONAL WEB PAGE`](https://edelveart.github.io/)
 
 *******************
