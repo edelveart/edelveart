@@ -20,7 +20,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edelveart&show=prs_merged&show_icons=true&theme=github_dark_dimmed)](https://github.com/edelveart/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edelveart&layout=compact)
 
-PS: I am not a mathematician or a programmer, so the code and ideas that you can find here are mostly my best effort at abstraction.
+<!--PS: I am not a mathematician or a programmer, so the code and ideas that you can find here are mostly my best effort at abstraction.-->
 
 
 
