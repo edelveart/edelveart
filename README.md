@@ -10,7 +10,7 @@
 - TypeScript, Node, Express, SQL, Git (primarily server-side)
 - Some knowledge of Ruby and Python
 
-I am also developing a math Ruby library to generate `241` infinite sequences of [multidimensional figurate numbers](https://rubygems.org/gems/figurate_numbers) based on the book "Figurate Numbers" by Michel Deza and Elena Deza. In parallel, I am building a Python version called [FigurateNum](https://pypi.org/project/figuratenum/). Both versions can be used in a pure math project or in **algorithmic composition** and **live coding**
+I am also developing a math Ruby library to generate `241` infinite sequences of [multidimensional figurate numbers](https://rubygems.org/gems/figurate_numbers) based on the book "Figurate Numbers" by Michel Deza and Elena Deza. In parallel, I am building a Python version called [FigurateNum](https://pypi.org/project/figuratenum/). Both versions can be used in a pure math project or in **algorithmic composition** and **live coding**.
 
 :eye: Assist in the integration of new artistic and math concepts in your musical and computer projects. 
 
