@@ -1,7 +1,7 @@
 # 👋 Hey there I’m **Edgar Delgado**  
 <h3 align="center"">:computer: Software Developer + Math enthusiast :mega: STEAM communicator  :musical_score: Professor of Master's Degree in Musicology </h3>
 
-![LinkedIn Portrait](https://github.com/user-attachments/assets/a3e61dc6-083e-4982-8767-b74a36d2da78)
+![LinkedIn Portrait](https://github.com/user-attachments/assets/9d19baf7-9406-4072-b8ba-617142a78955)
 
 
 - :ear_of_rice: I’m currently developing [**TypeScript Tonnetz**](https://www.npmjs.com/package/ts-tonnetz), a math library of transformations and operations from **Mathematical Music Theory**. It emerged as a development branch to contribute to Miika Alonen's phenomenal **ZifferJS** project. It is currently implemented in [**Topos**](https://topos.live/).
