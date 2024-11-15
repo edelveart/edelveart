@@ -1,5 +1,5 @@
 # 👋 Hey there I’m **Edgar Delgado**  
-<h3 align="center"">:computer: Software Developer + Math enthusiast :mega: STEAM communicator  :musical_score: Professor of Master's Degree in Musicology </h3>
+<h3 align="center"">:computer: Software Developer + Math enthusiast :mega: STEAM communicator  :musical_score:  Lecturer in the Master's Degree Programs in Musicology and Music Pedagogy </h3>
 
 ![LinkedIn Portrait](https://github.com/user-attachments/assets/9d19baf7-9406-4072-b8ba-617142a78955)
 
