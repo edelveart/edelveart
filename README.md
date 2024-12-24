@@ -1,8 +1,7 @@
 <h1 align="center">
-  <a href="https://edelveart.github.io/" target="_blank"> 👋 Hello I’m Edgar Delgado  </a>
+  <a href="https://edelveart.github.io/" target="_blank">  Hello I’m Edgar Delgado 👋 </a>
 </h1>
-
-<h4 align="center">:computer: Software Developer and Math enthusiast :mega: STEAM communicator :musical_score:  Lecturer in the Master's Degree Programs in Musicology and Music Pedagogy   </h4>
+<h3 align="center">:computer: Software Developer, Math enthusiast :musical_score: Lecturer in Master's in Musicology and Music Pedagogy</h3>
 
 ![LinkedInProfile](https://github.com/user-attachments/assets/18f34f06-69da-4524-b182-a4a7783613df)
 
