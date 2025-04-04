@@ -17,12 +17,12 @@
 
 <!--PS: I am not a mathematician or a programmer, so the code and ideas that you can find here are mostly my best effort at abstraction.-->
 
+## Connect with me 🌐 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgararmandodelgadovega) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@edelvemusic)
+- [`Personal Website`](https://edelveart.github.io/)
+
 ## Skills
 - TypeScript, Node, Express, SQL, Git (primarily server-side)
 - Some knowledge of Ruby and Python
-
-## Connect with me 🌐 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgararmandodelgadovega) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@edelvemusic) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/edgardelgadovega) 
-- [`Personal Website`](https://edelveart.github.io/)
 
 [![](https://visitcount.itsvg.in/api?id=edelveart&icon=0&color=0)](https://visitcount.itsvg.in)
