@@ -18,7 +18,7 @@
 <!--PS: I am not a mathematician or a programmer, so the code and ideas that you can find here are mostly my best effort at abstraction.-->
 
 ## Connect with me 🌐 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgararmandodelgadovega) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@edelvemusic)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgararmandodelgadovega) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@edelve_math_code)
 - [`Personal Website`](https://edelveart.github.io/)
 
 ## Skills
