@@ -1,6 +1,6 @@
 <h1 align="center">
   Hello, I'm
-  <a href="https://edelveart.github.io/" target="_blank"> Edgar Armando Delgado Vega 👋 </a>
+  <a href="https://edelveart.github.io/" target="_blank"> Edgar Delgado Vega 👋 </a>
 </h1>
 <h3 align="center">:computer: Software Developer, Math enthusiast :musical_score: Lecturer in Master's in Musicology and Music Pedagogy</h3>
 
