@@ -4,8 +4,9 @@
 </h1>
 <h3 align="center">:computer: Software Developer, Math enthusiast :musical_score: Lecturer in Master's in Musicology and Music Pedagogy</h3>
 
-![LinkedInProfileMathSoftware](https://github.com/user-attachments/assets/882738c2-609b-46f8-9ad4-1b7d4bc15875)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/882738c2-609b-46f8-9ad4-1b7d4bc15875" width="480"/>
+</p>
 
 - I’m currently developing [**TypeScript Tonnetz**](https://www.npmjs.com/package/ts-tonnetz), a npm math library of transformations, graphs and cycles from **Mathematical Music Theory**. It is _presently implemented_ in the [**Topos live coding environment**](https://topos.live/).
 - I am also developing a math Ruby library to generate `241` infinite sequences of [multidimensional figurate numbers](https://rubygems.org/gems/figurate_numbers). In parallel, I am building a Python version called [FigurateNum](https://pypi.org/project/figuratenum/). Both versions can be used in a pure math project or in **algorithmic composition** and **live coding**.
