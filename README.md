@@ -7,9 +7,13 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/882738c2-609b-46f8-9ad4-1b7d4bc15875" width="480"/>
 </p>
+I'm currently working on the following projects:
 
-- I’m currently developing [**TypeScript Tonnetz**](https://www.npmjs.com/package/ts-tonnetz), a npm math library of transformations, graphs and cycles from **Mathematical Music Theory**. It is _presently implemented_ in the [**Topos live coding environment**](https://topos.live/).
-- I am also developing a math Ruby library to generate `241` infinite sequences of [multidimensional figurate numbers](https://rubygems.org/gems/figurate_numbers). In parallel, I am building a Python version called [FigurateNum](https://pypi.org/project/figuratenum/). Both versions can be used in a pure math project or in **algorithmic composition** and **live coding**.
+- [ts-tonnetz](https://www.npmjs.com/package/ts-tonnetz): a TypeScript math library for transformations, graphs, and cycles from Mathematical Music Theory. It is currently implemented in the [**Topos**](https://topos.live/) live coding environment.
+
+ - [figurate_numbers](https://rubygems.org/gems/figurate_numbers): a Ruby library that generates 241 infinite sequences of multidimensional figurate numbers. I'm also developing a Python version, [figuratenum](https://pypi.org/project/figuratenum/), with similar functionality. Both are designed for use in pure mathematics, algorithmic composition, and live coding contexts.
+
+- [modular_forms](https://rubygems.org/gems/modular_forms): a new project aimed at providing an intuitive interface for real-time interaction with modular forms and elliptic curves using musical algorithms and Sonic Pi.
 
 :eye: Assist in the integration of new artistic and math concepts in your musical and computer projects. 
 
