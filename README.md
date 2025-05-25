@@ -18,7 +18,7 @@ I'm currently working on the following projects:
 
 - [figuratenum](https://pypi.org/project/figuratenum/): a Python library that generates `235` infinite sequences of **multidimensional figurate numbers**. I'm also maintaining a Ruby version, [**figurate_numbers**](https://rubygems.org/gems/figurate_numbers), with similar functionality. Both are designed for use in **pure mathematics**, **algorithmic composition**, and **live coding** contexts.
 
-## Connect with me 🌐 
+### Connect with me 🌐 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgararmandodelgadovega) 
 - [`Personal Website`](https://edelveart.github.io/)
 - [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@edelve_math_code)
