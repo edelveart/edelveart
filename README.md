@@ -6,15 +6,15 @@
 <h4 align="center">:musical_score: Lecturer in Master's in Musicology and Music Pedagogy</h4>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/882738c2-609b-46f8-9ad4-1b7d4bc15875" width="480"/>
+  <img src="https://github.com/user-attachments/assets/882738c2-609b-46f8-9ad4-1b7d4bc15875" width="360"/>
 </p>
 I'm currently working on the following projects:
 
+- [modular_forms](https://rubygems.org/gems/modular_forms): a new project aimed at providing an intuitive interface for real-time interaction with modular forms and elliptic curves using musical algorithms and Sonic Pi.
+  
 - [ts-tonnetz](https://www.npmjs.com/package/ts-tonnetz): a TypeScript math library for transformations, graphs, and cycles from Mathematical Music Theory. It is currently implemented in the [**Topos**](https://topos.live/) live coding environment.
 
- - [figurate_numbers](https://rubygems.org/gems/figurate_numbers): a Ruby library that generates 241 infinite sequences of multidimensional figurate numbers. I'm also developing a Python version, [figuratenum](https://pypi.org/project/figuratenum/), with similar functionality. Both are designed for use in pure mathematics, algorithmic composition, and live coding contexts.
-
-- [modular_forms](https://rubygems.org/gems/modular_forms): a new project aimed at providing an intuitive interface for real-time interaction with modular forms and elliptic curves using musical algorithms and Sonic Pi.
+- [figuratenum](https://pypi.org/project/figuratenum/): a Python library that generates `235` infinite sequences of **multidimensional figurate numbers**. I'm also maintaining a Ruby version, [**figurate_numbers**](https://rubygems.org/gems/figurate_numbers), with similar functionality. Both are designed for use in **pure mathematics**, **algorithmic composition**, and **live coding** contexts.
 
 :eye: Assist in the integration of new artistic and math concepts in your musical and computer projects. 
 
