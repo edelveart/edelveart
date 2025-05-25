@@ -4,10 +4,11 @@
 </h1>
 <h3 align="center">:computer: Software Developer, Math enthusiast :1234:  </h3>
 <h4 align="center">:musical_score: Lecturer in Master's in Musicology and Music Pedagogy</h4>
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/882738c2-609b-46f8-9ad4-1b7d4bc15875" width="360"/>
+![Edgar Delgado Vega](https://github.com/user-attachments/assets/2813c445-fa60-4ad3-96e1-61ea855aa091)
 </p>
+
+  
 I'm currently working on the following projects:
 
 - [modular_forms](https://rubygems.org/gems/modular_forms): a new project aimed at providing an intuitive interface for real-time interaction with modular forms and elliptic curves using musical algorithms and Sonic Pi.
