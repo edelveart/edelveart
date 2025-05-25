@@ -2,7 +2,7 @@
   Hello, I'm
   <a href="https://edelveart.github.io/" target="_blank"> Edgar Delgado Vega 👋 </a>
 </h1>
-<h4 align="center">:computer: Software Developer & Math enthusiast :1234:  
+<h4 align="center">:computer: Software Developer, Math enthusiast :1234:  
   Lecturer in Master's in Musicology and Music Pedagogy  :musical_score:
 </h4>
 
