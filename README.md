@@ -4,10 +4,10 @@
 </h1>
 <h3 align="center">:computer: Software Developer, Math enthusiast :1234:  </h3>
 <h4 align="center">:musical_score: Lecturer in Master's in Musicology and Music Pedagogy</h4>
-<p align="center">
+<!-- <p align="center">
 <img src="https://github.com/user-attachments/assets/882738c2-609b-46f8-9ad4-1b7d4bc15875" width="360"/>
-</p>
-  
+</p> -->
+
 I'm currently working on the following projects:
 
 - [modular_forms](https://rubygems.org/gems/modular_forms): a new project aimed at providing an intuitive interface for real-time interaction with modular forms and elliptic curves using musical algorithms and Sonic Pi.
@@ -16,6 +16,11 @@ I'm currently working on the following projects:
 
 - [figuratenum](https://pypi.org/project/figuratenum/): a Python library that generates `235` infinite sequences of **multidimensional figurate numbers**. I'm also maintaining a Ruby version, [**figurate_numbers**](https://rubygems.org/gems/figurate_numbers), with similar functionality. Both are designed for use in **pure mathematics**, **algorithmic composition**, and **live coding** contexts.
 
+## Connect with me 🌐 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgararmandodelgadovega) 
+- [`Personal Website`](https://edelveart.github.io/)
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@edelve_math_code)
+
 :eye: Assist in the integration of new artistic and math concepts in your musical and computer projects. 
 
 ![](https://github-readme-stats.vercel.app/api?username=edelveart&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)
@@ -23,9 +28,7 @@ I'm currently working on the following projects:
 
 <!--PS: I am not a mathematician or a programmer, so the code and ideas that you can find here are mostly my best effort at abstraction.-->
 
-## Connect with me 🌐 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgararmandodelgadovega) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@edelve_math_code)
-- [`Personal Website`](https://edelveart.github.io/)
+
 
 ## Skills
 - TypeScript, Node, Express, SQL, Git (primarily server-side)
