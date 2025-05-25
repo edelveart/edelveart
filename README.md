@@ -2,11 +2,11 @@
   Hello, I'm
   <a href="https://edelveart.github.io/" target="_blank"> Edgar Delgado Vega 👋 </a>
 </h1>
-<h3 align="center">:computer: Software Developer, Math enthusiast :1234:  </h3>
+<h3 align="center">:computer: Software Developer & Math enthusiast :1234:  </h3>
 <h4 align="center">:musical_score: Lecturer in Master's in Musicology and Music Pedagogy</h4>
-<!-- <p align="center">
-<img src="https://github.com/user-attachments/assets/882738c2-609b-46f8-9ad4-1b7d4bc15875" width="360"/>
-</p> -->
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/882738c2-609b-46f8-9ad4-1b7d4bc15875" width="360"/>
+</p> 
 
 I'm currently working on the following projects:
 
