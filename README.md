@@ -32,7 +32,7 @@ I'm currently working on the following projects:
 
 
 
-## Skills
+### Skills
 - TypeScript, Node, Express, SQL, Git (primarily server-side)
 - Some knowledge of Ruby and Python
 
