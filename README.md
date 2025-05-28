@@ -7,7 +7,7 @@
 </h4>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/882738c2-609b-46f8-9ad4-1b7d4bc15875" width="360"/>
+  <img src="https://github.com/user-attachments/assets/10b1da20-6a99-42e0-811d-d045528835ff" width="360"/>
 </p> 
 
 I'm currently working on the following projects:
