@@ -5,7 +5,6 @@
 <h4 align="center">:computer: Software Developer, Math enthusiast :1234:  
   Lecturer in Master's in Musicology and Music Pedagogy  :musical_score:
 </h4>
-()
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a74a53fc-43f1-4f87-bdec-a8cbf05b4d0c" width="640"/>
