@@ -18,7 +18,7 @@ I'm currently working on the following projects:
 
 ### Connect with me 🌐 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgararmandodelgadovega) 
-- [`Personal Website`](https://edelveart.github.io/)
+- [![Personal Website]( https://img.shields.io/badge/Personal%20Website-191970)](https://edelveart.github.io/) 
 - [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@edelve_math_code)
 
 :eye: Assist in the integration of new artistic and math concepts in your musical and computer projects. 
