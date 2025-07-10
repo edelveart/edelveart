@@ -14,7 +14,7 @@ I'm currently working on the following projects:
 
 - [modular_forms](https://rubygems.org/gems/modular_forms): a new project aimed at providing an intuitive interface for real-time interaction with modular forms and elliptic curves using musical algorithms and Sonic Pi.
 - [ts-tonnetz](https://www.npmjs.com/package/ts-tonnetz): a TypeScript math library for transformations, graphs, and cycles from Mathematical Music Theory. It is currently implemented in the [**Topos**](https://topos.live/) live coding environment.
-- [figuratenum](https://pypi.org/project/figuratenum/): a Python library that generates `233` infinite sequences of **multidimensional figurate numbers**. I'm also maintaining a Ruby version, [**figurate_numbers**](https://rubygems.org/gems/figurate_numbers), with similar functionality. Both are designed for use in **pure mathematics**, **algorithmic composition**, and **live coding** contexts.
+- [figuratenum](https://pypi.org/project/figuratenum/): a Python library that generates `235` infinite sequences of **multidimensional figurate numbers**. I'm also maintaining a Ruby version, [**figurate_numbers**](https://rubygems.org/gems/figurate_numbers), with similar functionality. Both are designed for use in **pure mathematics**, **algorithmic composition**, and **live coding** contexts.
 
 ### Connect with me 🌐 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgararmandodelgadovega) 
