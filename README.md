@@ -12,7 +12,7 @@
 </p> 
 
 ### About me
-Mathematics isn’t just for theorems; it’s also for creative computation and art. <br>
+Mathematics is not just for theorems; it’s also for creative computation and art. <br>
 I build tools that transform deep concepts like modular forms, elliptic curves, L-functions, number and p-adic fields, and discrete geometry into live, interactive systems for coders, musicians, and curious minds.
 
 ### Bridges Between Worlds
