@@ -1,6 +1,6 @@
 <h1 align="center">
   Hello, I'm
-  <a href="https://edelveart.github.io/" target="_blank"> Edgar Delgado Vega 👋 </a>
+  <a href="https://edelveart.github.io/" target="_blank" rel="noopener noreferrer"> Edgar Delgado Vega 👋 </a>
 </h1>
 <h4 align="center">:computer: Math Software Developer | Creative Systems :1234:  
   Lecturer in Master's in Musicology and Music Pedagogy  :musical_score:
@@ -10,10 +10,19 @@
   <img src="https://github.com/user-attachments/assets/6be5ef69-0d26-4d17-902a-d9634166cba6" width="640"/>
 </p> 
 
+Mathematics isn’t just for theorems; it’s also for creative computation and art. <br>
+I’m building tools that transform deep concepts like modular forms, elliptic curves, L-functions, number and p-adic fields, and discrete geometry into live, interactive systems for coders, musicians, and curious minds.
+
+These projects are my answer to a wild and fascinating question:
+
+    What if some elegant ideas, ranging from Fermat’s Last Theorem to the Langlands program, 
+    could become instruments for creating music, writing code, and dancing with math?
+    And what if music, in turn, could inspire unexpected new math?
+    
 I'm currently working on the following projects:
 
-- [modular_forms](https://rubygems.org/gems/modular_forms): a new project aimed at providing an intuitive interface for real-time interaction with modular forms and elliptic curves using musical algorithms and Sonic Pi.
-- [ts-tonnetz](https://www.npmjs.com/package/ts-tonnetz): a TypeScript math library for transformations, graphs, and cycles from Mathematical Music Theory. It is currently implemented in the [**Topos**](https://topos.live/) live coding environment.
+- [modular_forms](https://rubygems.org/gems/modular_forms): A creative **math engine** that makes modular forms and elliptic curves interactive, musical, and live. Built with Sonic Pi, this project transforms deep arithmetic geometry into a playground for code and sound. Inspired in **LMFDB**, **SageMath**, **Pari/GP**. 
+- [ts-tonnetz](https://www.npmjs.com/package/ts-tonnetz): a TypeScript math library for for **transformational music theory**: graphs, cycles, group actions. It is currently implemented in the [**Topos**](https://topos.live/), a live-coding environment where music theory becomes code you can jam with.
 - [figuratenum](https://pypi.org/project/figuratenum/): a Python library that generates `235` infinite sequences of **multidimensional figurate numbers**. I'm also maintaining a Ruby version, [**figurate_numbers**](https://rubygems.org/gems/figurate_numbers), with similar functionality. Both are designed for use in **pure mathematics**, **algorithmic composition**, and **live coding** contexts.
 
 ### Connect with me 🌐 
