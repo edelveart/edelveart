@@ -16,7 +16,7 @@ Mathematics isn’t just for theorems; it’s also for creative computation and 
 I build tools that transform deep concepts like modular forms, elliptic curves, L-functions, number and p-adic fields, and discrete geometry into live, interactive systems for coders, musicians, and curious minds.
 
 ### Bridges Between Worlds
-These projects are my answer to a wild and fascinating question:
+These libraries are my answer to a wild and fascinating question:
 
     What if some elegant ideas, ranging from Fermat’s Last Theorem to the Langlands program, 
     could become instruments for creating music, writing code, and dancing with math?
