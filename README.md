@@ -13,7 +13,7 @@
 
 ### About me
 Mathematics is not just for theorems; it’s also for creative computation and art. <br>
-I build tools that transform deep concepts like modular forms, elliptic curves, L-functions, number and p-adic fields, and discrete geometry into live, interactive systems for coders, musicians, and curious minds.
+I build tools that transform deep concepts like modular forms, elliptic curves, L-functions, p-adic fields, and discrete geometry into live, interactive systems for coders, musicians, and curious minds.
 
 ### Bridges Between Worlds
 These libraries are my answer to a wild and fascinating question:
