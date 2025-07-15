@@ -19,7 +19,7 @@ I design inventive systems that make math concepts from arithmetic geometry and 
 ### Bridges Between Worlds
 These libraries are my answer to a wild and fascinating question:
 
-    What if some elegant ideas, ranging from Fermat’s Last Theorem to the Langlands program, 
+    What if some elegant ideas, coming from deep areas like Fermat’s Last Theorem or the Langlands program, 
     could become instruments for creating music, writing code, and dancing with math?
     And what if music, in turn, could inspire unexpected new math?
     
