@@ -14,7 +14,8 @@
 ### About me
 _Mathematics empowers creative computing and art._ <br>
 
-I build tools that transform deep concepts like modular forms, elliptic curves, L-functions, p-adic fields, and discrete geometry into interactive systems for live coders, musicians, and inquisitive minds.
+I design inventive computational systems that animate concepts from arithmetic geometry and
+discrete structures, crafting immersive experiences for live coders, musicians, and inquisitive minds.
 
 ### Bridges Between Worlds
 These libraries are my answer to a wild and fascinating question:
