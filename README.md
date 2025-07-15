@@ -14,7 +14,7 @@
 ### About me
 _Mathematics empowers creative computing and art._ <br>
 
-I design inventive systems that make math concepts from arithmetic geometry and discrete structures interactive for live coders, musicians, and curious minds.
+I design inventive systems that allow live coders, musicians, and curious minds to interact with mathematical concepts from arithmetic geometry and discrete structures.
 
 ### Bridges Between Worlds
 These libraries are my answer to a wild and fascinating question:
