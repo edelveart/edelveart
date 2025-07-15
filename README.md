@@ -16,6 +16,10 @@ _Mathematics empowers creative computing and art._ <br>
 
 I design inventive systems that allow live coders, musicians, and curious minds to interact with mathematical concepts from arithmetic geometry and discrete structures.
 
+I currently develop **modular_forms** (inspired by SageMath and LMFDB) and **ts-tonnetz**, tools for real-time algorithmic composition. My libraries for generating **figurate numbers** have surpassed 15,000 downloads.
+
+I have published an article indexed in Scopus on Mathematical Music Theory, teach at the graduate level, and contribute to international open-source projects.
+
 ### Bridges Between Worlds
 These libraries are my answer to a wild and fascinating question:
 
