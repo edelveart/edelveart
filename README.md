@@ -25,7 +25,7 @@ These libraries are my answer to a wild and fascinating question:
     
 I'm currently working on the following projects:
 
-- [modular_forms](https://rubygems.org/gems/modular_forms): A creative **math engine** that makes modular forms and elliptic curves interactive, musical, and live. Built with Ruby/Sonic Pi, this project transforms deep arithmetic geometry into a playground for code and sound. Inspired in **LMFDB**, **SageMath**, **Pari/GP**. 
+- [modular_forms](https://rubygems.org/gems/modular_forms): A creative **math engine** that makes modular forms and elliptic curves interactive, musical, and live. Built with Ruby/Sonic Pi, this project transforms some concepts from arithmetic geometry into a playground for code and sound. Inspired in **LMFDB**, **SageMath**, **Pari/GP**. 
 - [ts-tonnetz](https://www.npmjs.com/package/ts-tonnetz): a TypeScript math library for **transformational music theory**: graphs, cycles, group actions. It is currently implemented in [**Topos**](https://topos.live/), a live-coding environment where music theory becomes code you can jam with.
 - [figuratenum](https://pypi.org/project/figuratenum/): a Python library that generates `235` infinite sequences of **multidimensional figurate numbers**. I'm also maintaining a Ruby version, [**figurate_numbers**](https://rubygems.org/gems/figurate_numbers), with similar functionality. Both are designed for use in **pure mathematics**, **algorithmic composition**, and **live coding** contexts.
 
