@@ -17,7 +17,7 @@
   <i>Mathematics empowers creative computing and art.</i> 
 </div>
 <br>
-I design inventive systems that allow live coders, musicians, and curious minds to interact with mathematical concepts from arithmetic geometry and discrete structures.
+I design creative systems that integrate mathematical structures with computational tools for live coders, musicians, and curious minds.
 
 I currently develop **modular_forms** (inspired by SageMath and LMFDB) and **ts-tonnetz**, tools for real-time algorithmic composition. My libraries for generating **figurate numbers** have surpassed 15,000 downloads.
 
