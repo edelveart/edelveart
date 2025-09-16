@@ -1,14 +1,13 @@
-<h1 align="center">
+<h1 align="left">
   Hello, I'm
   <a href="https://edelveart.github.io/" target="_blank" rel="noopener noreferrer"> Edgar Delgado Vega 👋 </a>
 </h1>
-<h4 align="center">
+<h4 align="left">
   :1234: Math and Creative Systems Developer :computer: <br>
-  Lecturer in Master's in Musicology and Music Pedagogy  :musical_score:
+  Lecturer in Master's in Musicology :musical_score:
 </h4>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6be5ef69-0d26-4d17-902a-d9634166cba6" width="512"/>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/6be5ef69-0d26-4d17-902a-d9634166cba6" width="312"/>
 </p> 
 
 ### About me
@@ -19,7 +18,9 @@ I currently develop **modular_forms** (inspired by SageMath and LMFDB) and **ts-
 
 I have published an article indexed in Scopus on Mathematical Music Theory, teach at the graduate level, and contribute to international open-source projects.
 
-### Bridges Between Worlds
+![](https://github-readme-stats.vercel.app/api?username=edelveart&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=edelveart&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
 These libraries are my answer to a wild and fascinating question:
 
     What if some elegant mathematical ideas could become instruments 
@@ -37,9 +38,6 @@ These libraries are my answer to a wild and fascinating question:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgararmandodelgadovega) [![Personal Website]( https://img.shields.io/badge/Personal%20Website-191970?style=for-the-badge)](https://edelveart.github.io/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@edelve_math_code)
 
 :eye: Assist in the integration of new artistic and math concepts in your musical and computer projects. 
-
-![](https://github-readme-stats.vercel.app/api?username=edelveart&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=edelveart&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 <!--PS: I am not a mathematician or a programmer, so the code and ideas that you can find here are mostly my best effort at abstraction.-->
 
