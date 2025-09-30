@@ -20,12 +20,7 @@ I have published an article indexed in Scopus on Mathematical Music Theory, teac
 ![](https://github-readme-stats.vercel.app/api?username=edelveart&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=edelveart&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-These libraries are my answer to a wild and fascinating question:
-
-    What if some elegant mathematical ideas could become instruments 
-    for creating music, writing code, and dancing with math?
-    And what if music, in turn, could inspire unexpected new math?
-    
+   
 ### Libraries
 
 - [modular_forms](https://rubygems.org/gems/modular_forms): A creative **math engine** that makes modular forms and elliptic curves interactive, musical, and live. Built with Ruby/Sonic Pi, this project transforms some concepts from arithmetic geometry into a playground for code and sound. Inspired in **LMFDB**, **SageMath**, **Pari/GP**. 
