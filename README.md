@@ -17,6 +17,8 @@ I currently develop **modular_forms** (inspired by SageMath and LMFDB) and **ts-
 
 I have published an article indexed in Scopus on Mathematical Music Theory, teach at the graduate level, and contribute to international open-source projects.
 
+
+
 ![](https://github-readme-stats.vercel.app/api?username=edelveart&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=edelveart&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
