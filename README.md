@@ -15,7 +15,7 @@ I design creative systems that integrate mathematical structures with computatio
 
 I currently develop **modular_forms** (inspired by SageMath and LMFDB) and **ts-tonnetz**, packages for real-time algorithmic composition. My libraries for generating **figurate numbers** have surpassed **20,000** downloads.
 
-I have published an article indexed in Scopus on Mathematical Music Theory, teach at the graduate level, and contribute to international open-source projects.
+I have published an article indexed in Scopus on Mathematical Music Theory, teach at the postgraduate level, and contribute to international open-source projects.
 
 ![](https://github-readme-stats.vercel.app/api?username=edelveart&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=edelveart&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
