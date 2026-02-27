@@ -2,7 +2,7 @@
   <a href="https://edelveart.github.io/" target="_blank" rel="noopener noreferrer"> Edgar Delgado Vega</a>
 </h1>
 <h4 align="center">
-  :1234: Math and Creative Systems Developer :computer: <br>
+  :1234: Creative Math Systems Developer :computer: <br>
   Lecturer in Master's in Musicology :musical_score:
 </h4>
 <p align="center">
