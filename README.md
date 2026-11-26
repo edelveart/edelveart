@@ -13,7 +13,7 @@
 
 I develop creative systems that integrate mathematical structures with computational tools for live coders, musicians, and curious minds.
 
-I currently develop **modular_forms** (inspired by SageMath and LMFDB) and **ts-tonnetz**, packages for real-time algorithmic composition. My libraries for generating **figurate numbers** have surpassed **38,000** downloads.
+I currently develop **modular_forms** (inspired by SageMath and LMFDB) and **ts-tonnetz**, packages for real-time algorithmic composition. My libraries for generating **figurate numbers** have surpassed **30,000** downloads.
 
 I have published an article indexed in Scopus on Mathematical Music Theory, contribute to OEIS [A40225](https://oeis.org/A402225) and open-source projects, and teach postgraduate courses.
 
