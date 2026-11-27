@@ -9,6 +9,8 @@
   <img src="https://github.com/user-attachments/assets/6be5ef69-0d26-4d17-902a-d9634166cba6" width="412"/>
 </p> 
 
+> [**My research blog EN/ES**](https://edelveart.github.io/blog/)
+
 ### About me
 
 I develop creative systems that integrate mathematical structures with computational tools for live coders, musicians, and curious minds.
